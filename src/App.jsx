@@ -68,7 +68,7 @@ const skills = [
 ];
 
 const stats = [
-  { value: "+2", label: "años de experiencia" },
+  { value: "+3", label: "años de experiencia" },
   { value: "+6", label: "proyectos destacados" },
   { value: "Full", label: "stack developer" },
 ];
@@ -422,7 +422,7 @@ export default function PortfolioAndresMarin() {
 
       <footer className="relative mx-auto flex max-w-6xl flex-col justify-between gap-3 px-5 pb-10 text-sm text-stone-500 md:flex-row">
         <p>© 2026 Andrés Marin. Todos los derechos reservados.</p>
-        <p>Diseñado con React, Tailwind y microinteracciones suaves.</p>
+        <p>Diseñado con React y Tailwind</p>
       </footer>
     </main>
   );
